@@ -1,6 +1,5 @@
-# DataSciencePortfolio
-Portfolio detailing my data science projects and skills
-## This is and experiment
-
-*italics*
-**bold**
+# Data Science Portfolio
+## Overview
+## Work Experience
+## Education
+## Projects
