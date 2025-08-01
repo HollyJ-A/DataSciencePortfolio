@@ -2,8 +2,7 @@
 
 ## Overview
 ### Hello! My name's Holly. I have a passion for data science, and using it to better the world!  
-I am a data science apprentice, passionate about wrangling data to uncover hidden information and untold stories. This portfolio will highlight my data skills and passion projects.
-
+I am a Data Science Apprentice, passionate about all things ....!
 ## Work Experience
 ### Data Analyst in Financial Services  September 2023-Present
 I have started my career as a data analyst in financial services. As part of my role, I aim to improve the customer experience by utilising data to id
