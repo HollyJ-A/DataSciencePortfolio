@@ -13,10 +13,10 @@ I have started my career as a data analyst in financial services. As part of my 
 ### Level 4 Data Analyst
 From September 2023 until March 2025, I completed the Level 4 Data Analyst apprenticeship, receiving a level 4 data analytics qualification.
 
+### Level 6 Data Scientist
 From May 2025, I have started the Level 6 Data Science Apprenticeship, and am keen to learn even more about data skils.
 
 ## Projects
-### An investigation into the impact Fast Fashion has on the environment 
 # An investigation into the relationship between Fast Fasion Production and Climate change.
 
 ## Datasets used 
