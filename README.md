@@ -46,4 +46,7 @@ The Fashion dataset was also transformed, following the same initial steps as th
 ## Data Visualisation
 This project utilised Power Bi for visualisations, through the creation of a dashboard to highlight key figures and explore the relationship between the climate and fashion data.
 
-<img width="1309" height="735" alt="image" src="https://github.com/user-attachments/assets/736869c5-6265-410f-8115-fd03dd272f1d" />
+<img width="1309" height="600" alt="image" src="https://github.com/user-attachments/assets/736869c5-6265-410f-8115-fd03dd272f1d" />
+
+
+Some key features of this visualisation were the 'cards'. These cards were used to call out key statistics around the impacts fast fashion has on the environment. This was an intentional chocie, as it meant that chronologically, if the dashboard was being read from left to right, the user would be shocked by the statistics immediatly, encouraging them to view the rest of the dashboard.
