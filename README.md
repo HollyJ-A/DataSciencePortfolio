@@ -16,6 +16,7 @@ From September 2023 until March 2025, I completed the Level 4 Data Analyst appre
 From May 2025, I have started the Level 6 Data Science Apprenticeship, and am keen to learn even more about data skils.
 
 ## Projects
-### An investigation into the impact Fast Fashion has on the environment https://github.com/HollyJ-A/DataSciencePortfolio/blob/main/fast-fashion-analysis.md
+### An investigation into the impact Fast Fashion has on the environment 
+#### Following the [link to my analysis](fast_fashion_analytics.md), you can see the datasets used and I will reveal all of my findings.
 This project investigated the relationship between Fast Fashion production, and Climate Change data, producing very interesting insights through utlising dashboards and a correlation matrix.
 By following the link you can see the datasets and code I used, as well as my findings.
