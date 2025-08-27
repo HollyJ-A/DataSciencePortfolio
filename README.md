@@ -44,9 +44,16 @@ The group by function was then used, so that the format of grouping by year and 
 The Fashion dataset was also transformed, following the same initial steps as the climate dataset. However, the fashion dataset was grouped by year, then country, and then brand, so that these groups could be highlighted when visualising the data, adding more than just volumes to analysis.
 
 ## Data Visualisation
-This project utilised Power Bi for visualisations, through the creation of a dashboard to highlight key figures and explore the relationship between the climate and fashion data.
-
-<img width="1309" height="600" alt="image" src="https://github.com/user-attachments/assets/736869c5-6265-410f-8115-fd03dd272f1d" />
-
+This project utilised Power Bi for visualisations, through the creation of a dashboard to highlight key figures and explore the relationship between the climate and fashion data
 
 Some key features of this visualisation were the 'cards'. These cards were used to call out key statistics around the impacts fast fashion has on the environment. This was an intentional chocie, as it meant that chronologically, if the dashboard was being read from left to right, the user would be shocked by the statistics immediatly, encouraging them to view the rest of the dashboard.
+
+<img width="449" height="259" alt="image" src="https://github.com/user-attachments/assets/c3442743-f6be-4611-ab3f-a4f660be08a0" />
+
+Another key feature of the dashboard was the forecast chart. This line chart visualised the historic change in temperature over the last 10 years. However, as the project involved exploring the deeper impacts of fast fashion on climate change, it felt crucial that the impacts were projected forward to explore the analysis deeper.
+
+<img width="438" height="158" alt="image" src="https://github.com/user-attachments/assets/43e0dc70-ab1b-4ac9-aad8-b1466bc1014e" />
+
+
+
+
